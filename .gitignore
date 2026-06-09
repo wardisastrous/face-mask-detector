@@ -1,0 +1,13 @@
+# Dataset
+dataset/
+
+# Trained model
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
